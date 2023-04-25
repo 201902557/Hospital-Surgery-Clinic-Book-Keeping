@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1638458428 source:c:\users\student\desktop\dee semster test 2\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<cmath>
+
+1638799110 source:c:\users\student\desktop\dr plaatje surgery\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<cmath>
+
+1654954689 source:c:\users\student\onedrive\desktop\dr plaatje surgery\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<cmath>
+	<algorithm>
+	<conio.h>
+
+1654954689 source:c:\users\student\onedrive\desktop\codeblocks projects\dr plaatje surgery\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<cmath>
+	<algorithm>
+	<conio.h>
+
+1667076532 source:c:\users\kkaym\onedrive\desktop\codeblocks projects\dr plaatje surgery\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<cmath>
+	<algorithm>
+	<conio.h>
+
